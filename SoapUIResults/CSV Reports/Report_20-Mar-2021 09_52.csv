@@ -1,0 +1,4 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"Test Suite 1","Test Case 1","request_1","restrequest","UNKNOWN","","20-Mar-2021 09_52",
+"Test Suite 1","Test Case 1","getData","jdbc","UNKNOWN","","20-Mar-2021 09_52",
+"Test Suite 1","Test Case 1","assert","groovy","OK","","20-Mar-2021 09_52",
